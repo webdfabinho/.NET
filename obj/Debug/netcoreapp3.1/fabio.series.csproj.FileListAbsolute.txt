@@ -1,0 +1,13 @@
+C:\DIO\fabio.series\bin\Debug\netcoreapp3.1\fabio.series.exe
+C:\DIO\fabio.series\bin\Debug\netcoreapp3.1\fabio.series.deps.json
+C:\DIO\fabio.series\bin\Debug\netcoreapp3.1\fabio.series.runtimeconfig.json
+C:\DIO\fabio.series\bin\Debug\netcoreapp3.1\fabio.series.runtimeconfig.dev.json
+C:\DIO\fabio.series\bin\Debug\netcoreapp3.1\fabio.series.dll
+C:\DIO\fabio.series\bin\Debug\netcoreapp3.1\fabio.series.pdb
+C:\DIO\fabio.series\obj\Debug\netcoreapp3.1\fabio.series.csprojAssemblyReference.cache
+C:\DIO\fabio.series\obj\Debug\netcoreapp3.1\fabio.series.AssemblyInfoInputs.cache
+C:\DIO\fabio.series\obj\Debug\netcoreapp3.1\fabio.series.AssemblyInfo.cs
+C:\DIO\fabio.series\obj\Debug\netcoreapp3.1\fabio.series.csproj.CoreCompileInputs.cache
+C:\DIO\fabio.series\obj\Debug\netcoreapp3.1\fabio.series.dll
+C:\DIO\fabio.series\obj\Debug\netcoreapp3.1\fabio.series.pdb
+C:\DIO\fabio.series\obj\Debug\netcoreapp3.1\fabio.series.genruntimeconfig.cache
